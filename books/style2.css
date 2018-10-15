@@ -1,0 +1,140 @@
+body
+{
+	background-color: #4f6066;
+	font-family: 'Lato', sans-serif;
+	
+}
+
+	#container
+	{
+	width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	}
+	
+	#zegar
+	{
+	text-align: right;
+	padding: 10px;
+	}
+	
+	#logo
+	{
+	background-color: #172d35;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	letter-spacing: 3px;
+	font-weight: 900;
+	}
+	
+	#menu
+	{
+	background-color: #34454c;
+	margin-top: 10px;
+	color: white;
+	padding: 10px;
+	}
+	
+	.option
+	{
+	 float:left;
+	 min-width: 50px;
+	 height: 25 px;
+	 font-size: 18px;
+	 padding: 10px;
+	 border-right: 2px dotted #000000;
+	 opacity: 0,8;
+	}
+	
+	.option:hover
+	{
+	 background-color: gray;
+	 cursor: pointer;
+	}
+	
+	#topbar
+	{
+		background-color:#248aaf;
+		color: white;
+		margin-top: 10px;
+		margin-bottom: 20px;
+		heigh: 150px;
+	}
+	#topbarleft
+	{
+		float:left;
+		width: 468px;
+		padding: 15px;
+		text-align: center;
+		border-right: 2px dotted #cccccc;
+	}
+	#topbarright
+	{
+		float:left;
+		text-align: justify;
+		width: 470px;
+		padding: 15px;
+		font-size: 17px;
+	}
+	
+	#sidebar
+	{
+	float:left;
+	width: 190 px;
+	min-height: 640px;
+	background-color: #7a9099;
+	color: black;
+	text-align:center;
+	padding: 20 px;
+	font-size: 18px;
+	}
+	.optionL
+	{
+		font-size: 18px;
+		height: 25px;
+		padding:10px;
+		border-bottom: 2px dotted #454747;
+		
+	}
+	.optionL:hover
+	{
+		background-color: #4eb9e0;
+		cursor: pointer;
+		color: white;
+	}
+	
+	#content
+	{
+	float: left;
+	width:778px;
+	color: black;
+	background-color: #677c84;
+	padding: 20px;
+	min-height: 600px;
+	}
+	
+	#footer
+	{
+	clear:both;
+	padding:10px;
+	text-align: center;
+	color: black;
+	font-size: 18 px;
+	}
+	.bigtitle
+	{
+	font-size: 30px;
+    font-weight: 900;
+    letter-spacing: 2px;	
+	}
+	
+	.dottedline
+	{
+	heigh: 5px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	border-bottom: 2px dotted #444444
+	}
+	
