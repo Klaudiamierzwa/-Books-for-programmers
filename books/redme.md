@@ -9,4 +9,5 @@
 3. JavaScript - creating the clock and date
 
 <br/><br/>
-![View of website](books/website.PNG)
+
+![View_of_website](website.PNG)
